@@ -1,6 +1,8 @@
 # Customer Segmentation with RFM & K-Means
 
-A robust data science workflow to segment an online retail dataset containing **25,000+ transaction logs**. By combining the **RFM (Recency, Frequency, Monetary)** framework, mathematical data transformations, and **K-Means Clustering**, this project demonstrates how to translate raw transaction data into actionable commercial and marketing strategies.
+A robust data science workflow to segment an online retail dataset containing **25,000+ transaction logs**. By combining the **RFM (Recency, Frequency, Monetary)** framework, mathematical data transformations, and **K-Means Clustering**, this project demonstrates how to translate raw transaction data into actionable marketing strategies.
+
+**Context & Origin:** This project is inspired by a Proof of Concept (PoC) I previously designed and developed during my time as a **Data Analyst at Telkom Indonesia**. Because it was using the internal company data, they cannot be shared publicly. Instead, this repository utilizing a similarly structured e-commerce dataset from Kaggle to demonstrate the technical framework and methodology implemented in production.
 
 ---
 
